@@ -5,7 +5,7 @@
 **Overview:** 
 PaulX's guide is a good introduction for beginners in Solana programming, focusing on basic escrow program development using Native Rust.
 You can also understand where the famous term "Chewing Glass" comes from where you really need to write a lot of code to do one simple thing end at the time, there was not a lot of documentation and ressources.
-In native Rust programming, deserialization of account data requires manual handling. Developers need to explicitly define the data structure and write code for serialization and deserialization. This process, while offering control, can be error-prone and time-consuming.
+In native Rust programming, serialization and deserialization of account data requires manual handling. Developers need to explicitly define the data structure and write code for serialization and deserialization. This process, while offering control, can be error-prone and time-consuming.
 
 **Key Features:**
 - Foundational approach to Solana's capabilities.
