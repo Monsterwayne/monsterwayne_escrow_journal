@@ -20,10 +20,11 @@ In native Rust programming, serialization and deserialization of account data re
 Anchor abstracts the complexities of account serialization and deserialization. It automatically handles these processes, allowing developers to focus on business logic rather than low-level details. 
 
 **Key Features:**
-- Utilization of the Anchor framework for streamlined development. A lot less of coding lines compare to native rust program
+- Utilization of the Anchor framework for streamlined development. A lot less of coding lines compare to native rust program like PaulX
 - Introduction of 'Vault' account with PDA key and authority.The introduction of the 'Vault' account with PDA features is a significant improvement, enhancing security and efficiency in the escrow process.
 - Tailored for developers seeking advanced techniques with simplified tooling.
 - Focus on robust, real-world applications. Less time consuming for creating programs.
+- This is a read that I would suggest to any new Solana developpers coming into the space
 
 ## Dean Little's "Based Anchor Escrow 23"
 **Overview:** 
