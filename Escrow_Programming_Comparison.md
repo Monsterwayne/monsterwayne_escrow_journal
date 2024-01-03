@@ -29,7 +29,7 @@ Anchor abstracts the complexities of account serialization and deserialization. 
 ## Dean Little's "Based Anchor Escrow 23"
 **Overview:** 
 
-Dean Little's implementation showcases advanced features and best practices in Solana escrow programming, further leveraging the Anchor framework.
+Dean Little's implementation showcases advanced features and best practices in Solana escrow programming,  leveraging the Anchor framework.
 
 **Key Features:**
 - Modular and clean program structure with Anchor where differents rust files are created and where each of them are well defined and named.
@@ -39,8 +39,8 @@ Dean Little's implementation showcases advanced features and best practices in S
 - Explicit definition of the size of the state account.
 
 ## Comparative Analysis
-The evolution from PaulX's foundational work in native Rust to IronAddictedDog's and Dean Little's sophisticated implementations 
-using the Anchor framework marks a trajectory of increasing complexity, efficiency, and developer-friendliness in Solana escrow programming.
+The evolution from PaulX's foundational work in native Rust to IronAddictedDog's and Dean Little's advanced implementations 
+using the Anchor framework marks a trajectory of increasing efficiency and developer-friendliness in Solana escrow programming. Chewing Gum perhaps? lol maybe not but clearly less painfull.
 
 ## Potential Downsides of the Evolution
 While the shift to the Anchor framework offers many benefits, it's not without potential drawbacks:
